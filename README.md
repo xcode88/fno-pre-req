@@ -5,9 +5,9 @@ A rough-and-ready method to set up some config files ahead of open.
 
 These files will help us smoothly deal with freeze quantities and lot sizes for different indices based on their expiries.
 
+[IDX_FUT.toml](https://xcode88.github.io/fno-pre-req/IDX_FUT.toml)
 
-
-
+[IDX_OPT.toml](https://xcode88.github.io/fno-pre-req/IDX_OPT.toml)
 
 
 ## Usage/Examples
