@@ -1,0 +1,210 @@
+[[FINNIFTY]]
+expiry = "2023-06-06"
+lot_size = 40
+exp_frmt = "23606"
+freeze_qty = 1800
+
+[[FINNIFTY]]
+expiry = "2023-06-13"
+lot_size = 40
+exp_frmt = "23613"
+freeze_qty = 1800
+
+[[FINNIFTY]]
+expiry = "2023-06-20"
+lot_size = 40
+exp_frmt = "23620"
+freeze_qty = 1800
+
+[[FINNIFTY]]
+expiry = "2023-06-27"
+lot_size = 40
+exp_frmt = "23JUN"
+freeze_qty = 1800
+
+[[FINNIFTY]]
+expiry = "2023-07-04"
+lot_size = 40
+exp_frmt = "23704"
+freeze_qty = 1800
+
+[[FINNIFTY]]
+expiry = "2023-07-25"
+lot_size = 40
+exp_frmt = "23JUL"
+freeze_qty = 1800
+
+[[FINNIFTY]]
+expiry = "2023-08-29"
+lot_size = 40
+exp_frmt = "23AUG"
+freeze_qty = 1800
+
+[[NIFTY]]
+expiry = "2023-06-08"
+lot_size = 50
+exp_frmt = "23608"
+freeze_qty = 1800
+
+[[NIFTY]]
+expiry = "2023-06-15"
+lot_size = 50
+exp_frmt = "23615"
+freeze_qty = 1800
+
+[[NIFTY]]
+expiry = "2023-06-22"
+lot_size = 50
+exp_frmt = "23622"
+freeze_qty = 1800
+
+[[NIFTY]]
+expiry = "2023-06-29"
+lot_size = 50
+exp_frmt = "23JUN"
+freeze_qty = 1800
+
+[[NIFTY]]
+expiry = "2023-07-06"
+lot_size = 50
+exp_frmt = "23706"
+freeze_qty = 1800
+
+[[NIFTY]]
+expiry = "2023-07-27"
+lot_size = 50
+exp_frmt = "23JUL"
+freeze_qty = 1800
+
+[[NIFTY]]
+expiry = "2023-08-31"
+lot_size = 50
+exp_frmt = "23AUG"
+freeze_qty = 1800
+
+[[NIFTY]]
+expiry = "2023-09-28"
+lot_size = 50
+exp_frmt = "23SEP"
+freeze_qty = 1800
+
+[[NIFTY]]
+expiry = "2023-12-28"
+lot_size = 50
+exp_frmt = "23DEC"
+freeze_qty = 1800
+
+[[NIFTY]]
+expiry = "2024-03-28"
+lot_size = 50
+exp_frmt = "24MAR"
+freeze_qty = 1800
+
+[[NIFTY]]
+expiry = "2024-06-27"
+lot_size = 50
+exp_frmt = "24JUN"
+freeze_qty = 1800
+
+[[NIFTY]]
+expiry = "2024-12-26"
+lot_size = 50
+exp_frmt = "24DEC"
+freeze_qty = 1800
+
+[[NIFTY]]
+expiry = "2025-06-26"
+lot_size = 50
+exp_frmt = "25JUN"
+freeze_qty = 1800
+
+[[NIFTY]]
+expiry = "2025-12-24"
+lot_size = 50
+exp_frmt = "25DEC"
+freeze_qty = 1800
+
+[[NIFTY]]
+expiry = "2026-06-25"
+lot_size = 50
+exp_frmt = "26JUN"
+freeze_qty = 1800
+
+[[NIFTY]]
+expiry = "2026-12-31"
+lot_size = 50
+exp_frmt = "26DEC"
+freeze_qty = 1800
+
+[[NIFTY]]
+expiry = "2027-06-24"
+lot_size = 50
+exp_frmt = "27JUN"
+freeze_qty = 1800
+
+[[NIFTY]]
+expiry = "2027-12-30"
+lot_size = 50
+exp_frmt = "27DEC"
+freeze_qty = 1800
+
+[[BANKNIFTY]]
+expiry = "2023-06-08"
+lot_size = 25
+exp_frmt = "23608"
+freeze_qty = 900
+
+[[BANKNIFTY]]
+expiry = "2023-06-15"
+lot_size = 25
+exp_frmt = "23615"
+freeze_qty = 900
+
+[[BANKNIFTY]]
+expiry = "2023-06-22"
+lot_size = 25
+exp_frmt = "23622"
+freeze_qty = 900
+
+[[BANKNIFTY]]
+expiry = "2023-06-29"
+lot_size = 25
+exp_frmt = "23JUN"
+freeze_qty = 900
+
+[[BANKNIFTY]]
+expiry = "2023-07-06"
+lot_size = 25
+exp_frmt = "23706"
+freeze_qty = 900
+
+[[BANKNIFTY]]
+expiry = "2023-07-27"
+lot_size = 15
+exp_frmt = "23JUL"
+freeze_qty = 900
+
+[[BANKNIFTY]]
+expiry = "2023-08-31"
+lot_size = 15
+exp_frmt = "23AUG"
+freeze_qty = 900
+
+[[BANKNIFTY]]
+expiry = "2023-09-28"
+lot_size = 25
+exp_frmt = "23SEP"
+freeze_qty = 900
+
+[[BANKNIFTY]]
+expiry = "2023-12-28"
+lot_size = 25
+exp_frmt = "23DEC"
+freeze_qty = 900
+
+[[BANKNIFTY]]
+expiry = "2024-03-28"
+lot_size = 25
+exp_frmt = "24MAR"
+freeze_qty = 900
+

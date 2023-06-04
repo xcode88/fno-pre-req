@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "fno-pre-req"
+version = "0.1.0"
+description = ""
+authors = ["pawant <13439842+xcode88@users.noreply.github.com>"]
+readme = "README.md"
+packages = [{include = "fno_pre_req"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+toml = "^0.10.2"
+pandas = "^2.0.2"
+xlrd = "^2.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

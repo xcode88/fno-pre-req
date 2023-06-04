@@ -1,0 +1,54 @@
+[[NIFTY]]
+tradingsymbol = "NIFTY23JUNFUT"
+expiry = "2023-06-29"
+lot_size = 50
+freeze_qty = 1800
+
+[[NIFTY]]
+tradingsymbol = "NIFTY23JULFUT"
+expiry = "2023-07-27"
+lot_size = 50
+freeze_qty = 1800
+
+[[NIFTY]]
+tradingsymbol = "NIFTY23AUGFUT"
+expiry = "2023-08-31"
+lot_size = 50
+freeze_qty = 1800
+
+[[BANKNIFTY]]
+tradingsymbol = "BANKNIFTY23JUNFUT"
+expiry = "2023-06-29"
+lot_size = 25
+freeze_qty = 900
+
+[[BANKNIFTY]]
+tradingsymbol = "BANKNIFTY23JULFUT"
+expiry = "2023-07-27"
+lot_size = 15
+freeze_qty = 900
+
+[[BANKNIFTY]]
+tradingsymbol = "BANKNIFTY23AUGFUT"
+expiry = "2023-08-31"
+lot_size = 15
+freeze_qty = 900
+
+[[FINNIFTY]]
+tradingsymbol = "FINNIFTY23JUNFUT"
+expiry = "2023-06-27"
+lot_size = 40
+freeze_qty = 1800
+
+[[FINNIFTY]]
+tradingsymbol = "FINNIFTY23JULFUT"
+expiry = "2023-07-25"
+lot_size = 40
+freeze_qty = 1800
+
+[[FINNIFTY]]
+tradingsymbol = "FINNIFTY23AUGFUT"
+expiry = "2023-08-29"
+lot_size = 40
+freeze_qty = 1800
+
