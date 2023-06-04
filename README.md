@@ -9,7 +9,7 @@ These files will help us smoothly deal with freeze quantities and lot sizes for 
 
 [IDX_OPT.toml](https://xcode88.github.io/fno-pre-req/IDX_OPT.toml)
 
-The above files are scheduled to be updated every morning 8:30 AM. You can use them by simply downloading and storing them post that.
+The above files are scheduled to be updated every morning 8:30 AM. You can use them by simply downloading and storing them somwhere in your project structure.
 
 
 
