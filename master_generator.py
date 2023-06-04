@@ -102,9 +102,8 @@ class FNOPR:
             if toml_data is not None:
                 toml_data.update(data_list)
                 FNOPR.write_master(master_file_path, toml_data)
-        except Exception as e:
-            logger.error("An error occurred while updating TOML file: %s", e)
-            logger.exception(e)
+        except Exception as E:
+            logger.exception(E)
 
     def last_update(self) -> bool:
         try:
