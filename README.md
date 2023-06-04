@@ -1,5 +1,5 @@
 
-# FNO Prerequisites
+# Prerequisites
 
 A rough-and-ready method to set up some config files ahead of open.
 
@@ -9,10 +9,28 @@ These files will help us smoothly deal with freeze quantities and lot sizes for 
 
 [IDX_OPT.toml](https://xcode88.github.io/fno-pre-req/IDX_OPT.toml)
 
+The above files are scheduled to be updated every morning 8:30 AM. You can use them by simply downloading and storing them post that.
+
+
 
 ## Usage/Examples
 
-Load TOML Configuration file
+Example snippet on downloading files from urls.
+
+```python 
+def download_file_as(file_url: str, save_as_name: str):
+    try:
+        response = request.urlretrieve(file_url, save_as_name)
+        print(response)
+    except Exception as E:
+        print(E)
+
+
+download_file_as("https://xcode88.github.io/fno-pre-req/IDX_FUT.toml", "IDX_FUT.toml")
+download_file_as("https://xcode88.github.io/fno-pre-req/IDX_OPT.toml", "IDX_OPT.toml")
+```
+
+Example snippet on loading configurations from TOML
 ```python
 
 import toml
@@ -335,3 +353,5 @@ Result
 }
 
 ```
+
+Once you have the above it is upto you how you want to use them, easiest way is to write a couple of wrapper with functions to extract information for a particular instrument and expiry.
